@@ -11,6 +11,7 @@ namespace ConsoleApplication12
         static void Main(string[] args)
         {
             Console.WriteLine("ssdпсскккпыввываа");
+            ddf
         }
     }
 }
